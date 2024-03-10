@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...front end and little part in backend development.
 - 🌱 I’m currently learning ...Bachelor of Computer Applications.
 - 💞️ I’m looking to collaborate on ... web development.
-- 📫 How to reach me ...manthanj2306@gmail.com
+- 📫 How to reach me ... manthanj2306@gmail.com
 - 😄 Pronouns: ...he/him.
 - ⚡ Fun fact: ...nothing😅.
 
